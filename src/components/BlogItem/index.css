@@ -1,0 +1,19 @@
+.blogItem {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+.blogDetailsContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blogTitle {
+  color: #12022f;
+}
+.blogPublishedDate {
+  color: #9aa5b1;
+}
+.blogDescription {
+  color: #9aa5b1;
+}
